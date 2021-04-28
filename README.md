@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Ethereum blockchain
 - 💞️ I’m looking to collaborate on Dapp development and smart contracts
 - 📫 How to reach me kelcheone on twiter
-![kelcheone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcheone&show_icons=true&theme=radical)
 
-![kelcheone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcheone&hide=contribs,prs)
+
+
+![kelcheone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcheone&show_icons=true&theme=radical)
 
 <!---
 kelcheone/kelcheone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
