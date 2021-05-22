@@ -1,5 +1,5 @@
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kelcheone&count_private=true&theme=chartreuse-dark&showicons=true&hide=issues,contribs)]()
 
-![kelcheone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcheone&show_icons=true&theme=chartreuse-dark&hide=issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcheone&layout=compact&theme=chartreuse-dark)](https://github.com/kelcheone/github-readme-stats)
 
 
