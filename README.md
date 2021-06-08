@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcheone&layout=compact&theme=chartreuse-dark)](https://github.com/kelcheone/github-readme-stats)
 
+![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/languages.svg?raw=true)
+
+![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/overview.svg?raw=true)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kelcheone.kelcheone)
 
