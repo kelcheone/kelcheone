@@ -19,20 +19,21 @@
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=013" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> <img src="https://rust-from-a-scripting-background.readthedocs.io/en/latest/_images/crates-logo.png" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 
----
+
 
 <!-- ![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/overview.svg?raw=true) -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kelcheone&count_private=true&theme=chartreuse-dark&showicons=true&hide=issues,contribs)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kelcheone&count_private=true&theme=chartreuse-dark&showicons=true&hide=issues,contribs)]() -->
 
 ---
 
-![Metrics](https://metrics.lecoq.io/kelcheone?template=classic&repositories=200&repositories.batch=200&isocalendar=1&languages=1&lines=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=Africa%2FNairobi&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/kelcheone?template=classic&repositories=200&repositories.batch=200&base.header=0&languages=1&isocalendar=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=7&config.timezone=Africa%2FNairobi)
 
 
----
 
-![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/languages.svg?raw=true)
+
+
+<!-- ![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/languages.svg?raw=true) -->
 
 </div>
 
