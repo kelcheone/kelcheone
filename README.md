@@ -1,3 +1,21 @@
+
+### Hi there 👋 <a href="https://github.com/kelcheone"><img src="https://github-readme-stats.vercel.app/api?username=kelcheone&count_private=true&include_all_commits=true&hide_rank=true&theme=chartreuse-dark&disable_animations=true&custom_title=Stats" align="right" width="320" alt="Kevin Kelche's github stats" /></a>
+
+I'm a software developer from Nairobi Kenya 🦒 
+
+- contributor to open source :Gitcoin:
+<!-- - creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr),  [`merkletreejs`](https://github.com/miguelmota/merkletreejs) -->
+- working on #DeFi and #Governance
+
+Pull requests welcome 🙂
+
+Thank you sponsors!
+
+<sub>i use Wsl, Ubuntu btw</sub>
+
+
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcheone&layout=compact&theme=chartreuse-dark)](https://github.com/kelcheone/github-readme-stats) -->
 <div align='center' >
 
@@ -5,10 +23,10 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kelcheone.kelcheone)
 
----
+<!-- --- -->
 
-### 🧰 In My Toolbox
-
+<!-- ### 🧰 In My Toolbox -->
+<!-- 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://www.trufflesuite.com/img/truffle-logo-light.svg" alt="VueJS" width="50" height="50"/> <img src="https://www.trufflesuite.com/img/ganache-logomark.svg" alt="VueJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="React" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="React" width="90" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
@@ -19,7 +37,7 @@
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=013" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> <img src="https://rust-from-a-scripting-background.readthedocs.io/en/latest/_images/crates-logo.png" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 
-
+ -->
 
 <!-- ![alt text](https://github.com/kelcheone/ReadME/blob/master/generated/overview.svg?raw=true) -->
 
