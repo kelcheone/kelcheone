@@ -7,11 +7,13 @@ I'm a software developer from Nairobi Kenya 🦒
 <!-- - creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr),  [`merkletreejs`](https://github.com/miguelmota/merkletreejs) -->
 - working on #DeFi and #Governance
 
+- Independent core blockchain researcher
+
 Pull requests welcome 🙂
 
 Thank you sponsors!
 
-<sub>i use Wsl, Ubuntu btw</sub>
+<sub>i use Wsl, Ubuntu btw tbh</sub>
 
 
 
