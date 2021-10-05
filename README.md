@@ -3,7 +3,7 @@
 
 I'm a software developer from Nairobi Kenya 🦒 
 
-- contributor to open source :Gitcoin:
+- contributor to open source : [Gitcoin](gitcoin.co)
 <!-- - creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr),  [`merkletreejs`](https://github.com/miguelmota/merkletreejs) -->
 - working on #DeFi and #Governance
 
@@ -11,7 +11,7 @@ I'm a software developer from Nairobi Kenya 🦒
 
 Pull requests welcome 🙂
 
-Thank you sponsors!
+- Curently learning [Rust](rust-lang.org) & Assembly
 
 <sub>i use Wsl, Ubuntu btw tbh</sub>
 
