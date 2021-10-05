@@ -11,7 +11,7 @@ I'm a software developer from Nairobi Kenya 🦒
 
 Pull requests welcome 🙂
 
-- Curently learning [Rust](https://rust-lang.org) & Assembly
+- Curently learning [**_Rust_**](https://rust-lang.org), **_TypeScript_** & **_Assembly_**
 
 <sub>i use Wsl, Ubuntu btw tbh</sub>
 
