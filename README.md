@@ -15,3 +15,10 @@ Pull requests welcome 🙂
 
 <sub>i use Wsl, Ubuntu btw tbh</sub>
 
+---
+
+<div align="center">
+  
+  ![Metrics](https://metrics.lecoq.io/kelcheone?template=classic&repositories=200&repositories.batch=200&base.header=0&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&lines=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=60&followup.sections=repositories&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=10&config.timezone=Africa%2FNairobi)
+
+  </div>
