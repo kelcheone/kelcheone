@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-<!-- <a href="https://github.com/kelcheone"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=kelcheone&count_private=true&include_all_commits=true&hide_rank=true&theme=chartreuse-dark&disable_animations=true&custom_title=Stats" align="right" width="320" alt="Kevin Kelche's github stats" /></a> -->
+<a href="https://github.com/kelcheone">
+  <img src="https://github.com/kelcheone/ReadME/blob/master/generated/overview.svg" align="right" width="320" alt="Kevin Kelche's github stats" /></a>
 
 I'm a software developer from Nairobi Kenya 🦒 
 
