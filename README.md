@@ -1,15 +1,14 @@
 
-### Hi there 👋
+### HOLLA! 👋🏽👋🏽
 <a href="https://github.com/kelcheone">
   <img src="https://github.com/kelcheone/ReadME/blob/master/generated/overview.svg" align="right" width="320" alt="Kevin Kelche's github stats" /></a>
 
-I'm a software developer from Nairobi Kenya 🦒 
+I'm building stuff people don't know they need.
+- working on #DeFi & #Governance, 
+
+- Doing research  on IoT, MEV and applications of AI in Blockchains
 
 - contributor to open source : [Gitcoin](https://gitcoin.co)
-
-- working on #DeFi and #Governance
-
-- Independent core blockchain researcher
 
 Pull requests welcome 🙂
 
